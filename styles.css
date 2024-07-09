@@ -101,9 +101,9 @@ nav li> a {
     background-color: rgb(242,242,242);
 }
 
-
+/* Hero Section styles */
 .first-bg {
-    background-image: url(assets/Hero-bg-upscaled.webp);
+    background-image: url(assets/Hero-bg.png);
     background-repeat: no-repeat;
     border: 1px solid white;
     background-size: 100% 100%;
