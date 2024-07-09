@@ -232,3 +232,63 @@ iframe {
     padding: 20px;
     margin-top: 48px;
 }
+
+
+/* skills styles start here */
+
+.skills-header {
+    text-align: center;
+}
+
+.skills-description {
+    text-align: center;
+    margin-bottom: 45px;
+}
+
+
+.skills-container {
+    display: flex;
+    justify-content: center;
+}
+
+.html {
+    background-color: #ff4b1e13;
+    min-width: 364px;
+    min-height: 299px;
+    margin-right: 24px;
+    padding: 40px;
+}
+
+.css {
+    background-color: #004de815 ;
+    min-width: 364px;
+    min-height: 299px;
+    padding: 40px;
+}
+
+.javascript {
+    background-color: #ffdd001c ;
+    min-width: 364px;
+    min-height: 299px;
+    margin-left: 24px;
+    padding: 40px;
+}
+
+
+.skills-font{
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: 800;
+    font-size: 24px;
+}
+
+.learn-more-font {
+    font-family: "Azeret Mono", monospace;
+    font-optical-sizing: auto;
+    font-weight: bold;
+    font-size: 16px;
+}
+
+.learn-more {
+    color: black;
+}
