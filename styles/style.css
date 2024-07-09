@@ -103,7 +103,7 @@ nav li> a {
 
 /* Hero Section styles */
 .first-bg {
-    background-image: url(assets/Hero-bg.png);
+    background-image: url(../assets/Hero-bg-upscaled.webp);
     background-repeat: no-repeat;
     border: 1px solid white;
     background-size: 100% 100%;
