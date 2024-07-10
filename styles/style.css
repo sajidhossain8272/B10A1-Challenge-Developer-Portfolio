@@ -233,7 +233,9 @@ iframe {
     margin-top: 48px;
 }
 
-
+.article-btn:hover {
+    cursor: not-allowed;
+}
 /* skills styles start here */
 
 .skills-header {
@@ -345,3 +347,31 @@ iframe {
 
 
 /* Footer Styles Starts Here */
+/* nav styles */
+footer {
+    background-color: rgba(13, 19, 33, 0.048);
+    padding: 32px;
+    
+}
+
+footer ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+
+footer li> a {
+    text-decoration: none;
+    color: #0D1321;
+}
+
+.social {
+    display: flex;
+    gap: 24px;
+}
+
+
+
+.feedback-btn:hover {
+    cursor: not-allowed;
+}
